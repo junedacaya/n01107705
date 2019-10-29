@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.n01107705.MainActivity">
+    <item
+        android:id="@+id/action_gotocounter"
+        android:orderInCategory="100"
+        android:title="@string/action_goto_counter"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_quit"
+        android:orderInCategory="100"
+        android:title="@string/action_quit"
+        app:showAsAction="never" />
+</menu>

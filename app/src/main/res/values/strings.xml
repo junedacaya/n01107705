@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">n01107705</string>
+    <string name="action_goto_counter">Goto the Counter</string>
+    <string name="action_quit">Quit</string>
+    <string name="userID">N01107705</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="title_activity_counter">Counter</string>
+    <string name="count">Count</string>
+    <string name="result">Result</string>
+    <string name="title_activity_result">Result</string>
+</resources>
